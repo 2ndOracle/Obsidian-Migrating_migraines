@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Migrating migranes.md",
+                "file": "Помойка.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Migrating migranes.md",
+                "file": "Помойка.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Migrating migranes.md",
+                "file": "Помойка.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Migrating migranes.md"
+                "file": "Помойка.md"
               }
             }
           },
@@ -157,13 +157,13 @@
   },
   "active": "44569e08e20daaee",
   "lastOpenFiles": [
-    "README.md",
-    "Цифровая помойка.md",
-    "Путешествия.md",
-    "Migrating migranes.md",
-    "Цвета и шрифты.md",
-    "Помойка.md",
     "Питчинг.md",
+    "Помойка.md",
+    "Цифровая помойка.md",
+    "Цвета и шрифты.md",
+    "Migrating migranes.md",
+    "README.md",
+    "Путешествия.md",
     "Дом (Здание).md",
     "Рандомы с работы.md",
     "Картинки/Untitled.png",
